@@ -1,3 +1,3 @@
-- 🤔 Talk to [Daniel Toben](https://github.com/danieltoben) about collaborating on the [Litter Map](https://littermap.com) project
-- 📺 I sometimes [live stream](https://twitch.tv/codemutation) my screen while I work on software
 - 🤝 Contributions to my projects are appreciated
+- 📺 I sometimes [live stream](https://twitch.tv/codemutation) my screen while I work on open source software
+- 🤔 Consider reaching out to [Daniel Toben](https://github.com/danieltoben) about further development of the [Litter Map](https://littermap.com) which we worked to launch together
