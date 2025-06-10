@@ -1,4 +1,4 @@
-- 📄 Download my [resume](https://raw.githubusercontent.com/specious/specious/main/Ildar%20Sagdejev%20(resume).pdf)
+- 📄 View my [resume](https://raw.githubusercontent.com/specious/specious/main/Ildar%20Sagdejev%20(resume).pdf) (and hire me for a contract)
 - 📺 I occasionally [live stream](https://twitch.tv/codemutation) my screen while I work on open source software
 - 🤝 Contributions to my [projects](https://github.com/specious?tab=repositories&q=&type=source) are appreciated
 - 🤔 Consider reaching out to [Daniel Toben](https://github.com/danieltoben) about further development of the [Litter Map](https://littermap.com) which we worked to launch together
