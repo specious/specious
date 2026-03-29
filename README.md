@@ -1,4 +1,17 @@
-- 📄 View my [resume](https://raw.githubusercontent.com/specious/specious/main/Ildar%20Sagdejev%20(resume).pdf) (and hire me for a contract)
-- 📺 I occasionally [live stream](https://twitch.tv/codemutation) my screen while I work on open source software
-- 🤝 Contributions to my [projects](https://github.com/specious?tab=repositories&q=&type=source) are appreciated
-- 🤔 Consider reaching out to [Daniel Toben](https://github.com/danieltoben) about further development of the [Litter Map](https://littermap.com) which we worked to launch together
+```
+┌───=[ Ildar Sagdejev :: rust • typescript • solidjs ]=───────────────────────┐
+│                                                                             │
+│   backend systems • dev tooling                                             │
+│   portable • reproducible • observable • explicit                           │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+I build systems and tools that prioritize transparency, portability and long-term maintainability.
+
+Working on infrastructure, tooling, or anything that needs to last? Let’s talk.
+
+- 📄 [Resume](https://raw.githubusercontent.com/specious/specious/main/Ildar%20Sagdejev%20(resume).pdf) (contract-friendly)
+- 🔧 [Projects](https://github.com/specious?tab=repositories&type=source)
+- 📺 [Live coding](https://twitch.tv/codemutation)
+- 🔗 [Links](https://linktr.ee/codemutation)
