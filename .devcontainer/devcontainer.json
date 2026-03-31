@@ -1,0 +1,24 @@
+{
+  "name": "specious-dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+
+  "remoteUser": "me",
+
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "zsh"
+  },
+
+  "postCreateCommand": "./.devcontainer/setup-dotfiles.sh",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "GitHub.copilot"
+      ]
+    }
+  }
+}
