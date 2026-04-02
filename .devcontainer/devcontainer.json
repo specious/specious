@@ -10,7 +10,7 @@
     "terminal.integrated.defaultProfile.linux": "zsh"
   },
 
-  "postCreateCommand": "./.devcontainer/setup-dotfiles.sh",
+  "postCreateCommand": "./.devcontainer/setup-postcreate.sh",
 
   "customizations": {
     "vscode": {
