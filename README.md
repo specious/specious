@@ -13,5 +13,5 @@ Available for contract work and short audits — perfect for teams that need rel
 
 - 📄 [Resume](https://raw.githubusercontent.com/specious/specious/main/Ildar%20Sagdejev%20(resume).pdf) (contract-friendly)
 - 🔧 [Projects](https://github.com/specious?tab=repositories&type=source)
-- 📺 [Occasional live coding](https://twitch.tv/codemutation)
+- 📺 [Live coding](https://twitch.tv/codemutation) (might be occasional)
 - 🔗 [Links](https://linktr.ee/codemutation)
