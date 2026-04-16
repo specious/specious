@@ -4,16 +4,22 @@
     "dockerfile": "Dockerfile"
   },
 
-  "remoteUser": "me",
+  "mounts": [
+    "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+  ],
 
-  "settings": {
-    "terminal.integrated.defaultProfile.linux": "zsh"
-  },
+  "remoteUser": "me",
+  "containerUser": "me",
 
   "postCreateCommand": "./.devcontainer/setup-postcreate.sh",
 
   "customizations": {
     "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "terminal.integrated.copyOnSelection": true,
+        "editor.copyWithSyntaxHighlighting": false
+      },
       "extensions": [
         "ms-azuretools.vscode-docker",
         "ms-kubernetes-tools.vscode-kubernetes-tools",
