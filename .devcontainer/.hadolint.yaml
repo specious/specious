@@ -1,0 +1,3 @@
+ignore:
+  - DL3008 # suggestion to pin apt versions - installs are intentionally unpinned
+  - SC2016 # $HOME inside single quotes — intentional when writing config lines verbatim to /etc/sh
