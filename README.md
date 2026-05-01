@@ -12,6 +12,8 @@ I build backend systems and dev tooling that prioritize transparency, portabilit
 Available for contract work and short audits — perfect for teams that need reliable, low-friction infrastructure or a quick observability audit.
 
 - 📄 [Resume](https://raw.githubusercontent.com/specious/specious/main/Ildar%20Sagdejev%20(resume).pdf) (contract-friendly)
-- 🔧 [Projects](https://github.com/specious?tab=repositories&type=source)
-- 📺 [Live coding](https://twitch.tv/codemutation) (might be occasional)
-- 🔗 [Links](https://linktr.ee/codemutation)
+- 🌐 [Mini website](https://git.io/specious)
+- 📺 [Live coding](https://twitch.tv/codemutation) (when I'm not on hiatus)
+- 🔗 [All my links](https://linktr.ee/codemutation)
+
+Browse my [repos](https://github.com/specious?tab=repositories&type=source) if you want to go deep.
